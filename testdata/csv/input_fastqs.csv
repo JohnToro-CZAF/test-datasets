@@ -1,2 +1,2 @@
-sample,fastq_1,fastq_2
+sample,input1,input2
 SAMPLE_PAIRED_END,https://raw.githubusercontent.com/nf-core/test-datasets/refs/heads/hgtseq/testdata/fastq/testsample01_1.fastq.gz,https://raw.githubusercontent.com/nf-core/test-datasets/refs/heads/hgtseq/testdata/fastq/testsample01_2.fastq.gz
